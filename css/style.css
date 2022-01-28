@@ -49,6 +49,7 @@ div {
     margin-left: 50px;
     border-bottom: solid 3px; 
     border-left: solid 10px;
+    border-right: none;
 }
 
 .blue {
@@ -57,6 +58,7 @@ div {
     margin-right: 50px;
     border-right: solid 10px; 
     border-bottom: solid 3px;
+    border-left: none;
 }
 
 .yellow {
@@ -65,6 +67,7 @@ div {
     margin-left: 50px;
     border-bottom: solid 3px; 
     border-left: solid 10px;
+    border-right: none;
 }
 
 .yellow p, .yellow h2 {
@@ -81,6 +84,7 @@ div {
     margin-right: 50px;
     border-right: solid 10px; 
     border-bottom: solid 3px;
+    border-left: none;
 }
 
 span {
